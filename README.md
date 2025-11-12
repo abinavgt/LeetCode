@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/abinavgt/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0948-sort-an-array](https://github.com/abinavgt/LeetCode/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/abinavgt/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abinavgt/LeetCode/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abinavgt/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
