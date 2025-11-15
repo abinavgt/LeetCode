@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abinavgt/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/abinavgt/LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/abinavgt/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0948-sort-an-array](https://github.com/abinavgt/LeetCode/tree/master/0948-sort-an-array) |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abinavgt/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/abinavgt/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
