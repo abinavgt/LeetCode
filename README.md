@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abinavgt/LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/abinavgt/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0948-sort-an-array](https://github.com/abinavgt/LeetCode/tree/master/0948-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/abinavgt/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1748-sum-of-unique-elements](https://github.com/abinavgt/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/abinavgt/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/abinavgt/LeetCode/tree/master/0162-find-peak-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/abinavgt/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
