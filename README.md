@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/abinavgt/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abinavgt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abinavgt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abinavgt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/abinavgt/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/abinavgt/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abinavgt/LeetCode/tree/master/0013-roman-to-integer) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abinavgt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
