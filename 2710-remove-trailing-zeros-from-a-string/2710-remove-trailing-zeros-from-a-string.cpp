@@ -1,16 +1,18 @@
+
+
 class Solution {
 public:
-    string removeTrailingZeros(string nums) {
-        
-        int n = nums.size();
-        int i = n-1;
-        while(i >= 0 && nums[i]=='0'){
-            i--; // Now the lasr index changes 
+    string removeTrailingZeros(string num) {
+        int n = num.size();
+        string ans = "";
+
+        int i = n - 1;
+        while(i >= 0 && num[i] == '0') i--;  
+
+        for(int j = 0; j <= i; j++){
+            ans.push_back(num[j]);
         }
-        string output = ""; //creates an empty string
-        for(int j=0;j<=i;j++){
-            output.push_back(nums[j]);
-        }
-        return output;
+
+        return ans;
     }
 };
