@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abinavgt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abinavgt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/abinavgt/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abinavgt/LeetCode/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/abinavgt/LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/abinavgt/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/abinavgt/LeetCode/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/abinavgt/LeetCode/tree/master/0948-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abinavgt/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1748-sum-of-unique-elements](https://github.com/abinavgt/LeetCode/tree/master/1748-sum-of-unique-elements) |
