@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/abinavgt/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abinavgt/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/abinavgt/LeetCode/tree/master/0020-valid-parentheses) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/abinavgt/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abinavgt/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Prefix Sum
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abinavgt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
