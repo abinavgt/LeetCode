@@ -2,6 +2,7 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         
+        // Prefix Array Approach
         int n = height.size();
         vector<int> lmax(n,0);
         vector<int> rmax(n,0);
