@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/abinavgt/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/abinavgt/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abinavgt/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/abinavgt/LeetCode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/abinavgt/LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/abinavgt/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abinavgt/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/abinavgt/LeetCode/tree/master/0135-candy) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abinavgt/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abinavgt/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abinavgt/LeetCode/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
