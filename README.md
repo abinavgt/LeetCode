@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abinavgt/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/abinavgt/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abinavgt/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abinavgt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/abinavgt/LeetCode/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/abinavgt/LeetCode/tree/master/0224-basic-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abinavgt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abinavgt/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abinavgt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abinavgt/LeetCode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/abinavgt/LeetCode/tree/master/0224-basic-calculator) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/abinavgt/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abinavgt/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Prefix Sum
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abinavgt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abinavgt/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abinavgt/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/abinavgt/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abinavgt/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
