@@ -21,3 +21,6 @@ public:
         return result;
     }
 };
+
+//TC : O(nlogn) --> sorting and for loop
+//SC : O(logn) --> recursive call satck
