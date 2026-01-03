@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/abinavgt/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/abinavgt/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/abinavgt/LeetCode/tree/master/0283-move-zeroes) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abinavgt/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/abinavgt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0948-sort-an-array](https://github.com/abinavgt/LeetCode/tree/master/0948-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abinavgt/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abinavgt/LeetCode/tree/master/0056-merge-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abinavgt/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-sort-an-array](https://github.com/abinavgt/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/abinavgt/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/abinavgt/LeetCode/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abinavgt/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abinavgt/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
 |  |
