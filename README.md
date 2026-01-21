@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abinavgt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/abinavgt/LeetCode/tree/master/0948-sort-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/abinavgt/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abinavgt/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abinavgt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abinavgt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abinavgt/LeetCode/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinavgt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/abinavgt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abinavgt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/abinavgt/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abinavgt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abinavgt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/abinavgt/LeetCode/tree/master/0224-basic-calculator) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinavgt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/abinavgt/LeetCode/tree/master/0796-rotate-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/abinavgt/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abinavgt/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -180,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abinavgt/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abinavgt/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/abinavgt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
