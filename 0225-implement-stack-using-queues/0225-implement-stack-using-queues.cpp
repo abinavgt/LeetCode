@@ -1,7 +1,8 @@
 class MyStack {
-public:
+
     queue<int> q1;
     queue<int> q2;
+    public:
     MyStack() {
         
     }
