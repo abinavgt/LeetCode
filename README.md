@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abinavgt/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/abinavgt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abinavgt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/abinavgt/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abinavgt/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/abinavgt/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abinavgt/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abinavgt/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abinavgt/LeetCode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/abinavgt/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/abinavgt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/abinavgt/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abinavgt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abinavgt/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abinavgt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/abinavgt/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/abinavgt/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/abinavgt/LeetCode/tree/master/0224-basic-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abinavgt/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/abinavgt/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
